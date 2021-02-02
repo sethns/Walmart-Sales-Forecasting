@@ -21,6 +21,7 @@ Within this file you will find the following fields:
 ✔ IsHoliday - whether the week is a special holiday week 
 
 ⮚ test.csv: This file is identical to train.csv, except we have withheld the weekly sales. You must predict the sales for each triplet of store, department, and date in this file. 
+
 ⮚ features.csv: This file contains additional data related to the store, department, and regional activity for the given dates. It contains the following fields: 
 ✔ Store - the store number 
 ✔ Date - the week 
